@@ -1,0 +1,4 @@
+#dispalying ("Hello world:") on the screen#
+#using print default function#
+print("Hello world!")
+
